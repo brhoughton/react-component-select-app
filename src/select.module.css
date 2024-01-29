@@ -104,7 +104,8 @@
 
 .option-badge:hover > .remove-btn,
 .option-badge:focus > .remove-btn {
-  color: hsl(0, 100%, 50%);
+  background-color: hsl(0, 100%, 90%);
+  border-color: hsl(0, 100%, 50%);
 }
 
 .option-badge > .remove-btn {
